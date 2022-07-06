@@ -1,0 +1,15 @@
+h1, h2, p {
+    color: white;
+};
+
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+    color:aquamarine;
+    font-size: 16px;
+}
